@@ -87,7 +87,7 @@
 
         <!-- Fix: "Hellboar’s" -> "hellboar’s" -->
         <Operation Class="PatchOperationReplace">
-        <xpath>Defs/HediffDef[defName="MA_Hellboardraught"]/description</xpath>
+        <xpath>Defs/HediffDef[defName="MA_HellboarLiverPurge"]/description</xpath>
         <value>
             <description>Your gut churns with toxins from the hellboar’s liver. Infection burns away, but your body pays the price. The potent essence floods the bloodstream, dulling pain and forcing the immune system into overdrive but clarity slips away, and the trance leaves the body vulnerable.</description>
         </value>
