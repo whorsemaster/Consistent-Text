@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- <MaxYoink>max yoink {0} kg</MaxYoink> -->
+  <MaxYoink>maximum involuntary pickup weight {0} kg</MaxYoink>
+
+  <!-- <CannotToss>cannot toss {0}</CannotToss> -->
+  <CannotToss>cannot throw {0}</CannotToss>
+
+  <!-- <TossPawn>toss {0} ...</TossPawn> -->
+  <TossPawn>throw {0} ...</TossPawn>
+
+  <!-- <Toss>toss</Toss> -->
+  <Toss>throw</Toss>
+
+  <!-- <AnimalManhunterFromYoink>{1_indefinite} is attacking after being yoinked!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep.</AnimalManhunterFromYoink> -->
+  <AnimalManhunterFromYoink>{1_indefinite} is attacking after an attempted pickup!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep.</AnimalManhunterFromYoink>
+
+</LanguageData>
